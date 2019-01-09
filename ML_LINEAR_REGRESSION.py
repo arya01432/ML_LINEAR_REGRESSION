@@ -12,7 +12,7 @@ plt.rcParams['figure.figsize']=(20.0,10.0)
 
 
 # In[36]:
-
+#read datasets
 
 data=pd.read_csv('F:\\headbrain.csv')
 print(data.shape)
